@@ -1,0 +1,12 @@
+Introduction to Data Ingestion and Analysis (DIA) , Overview and Importance, Applications in Various Industries, Big Data Fundamentals, Definition and Characteristics of Big Data, The 7 Vs of Big Data (Volume, Velocity, Variety, Veracity, Value, Variability, Visualization), Big Data Pipeline Definition and Importance, Properties of Effective Data Pipelines (Scalability, Fault-tolerance, Flexibility, etc.), challenges in DIA, Software and Tools for Big Data DIA.
+
+Overview of Common Tools: Hadoop, Spark etc., Differences Between Traditional Databases and Big Data Systems, Types and Sources of Big Data, Structured, Unstructured, and Semi-Structured Data, Common Sources of Big Data (Social Media, IoT, Transactions, etc.), Data Ingestion Methods, 
+ETL (Extract, Transform, Load): Workflow, Advantages, and Use Cases 
+ELT (Extract, Load, Transform): Differences from ETL, Advantages, and Use Cases
+
+
+Introduction to Data Lakes vs. Data Warehouses, Benefits and Challenges of Data Lakes, Hadoop Ecosystem (HDFS, MapReduce, etc)
+
+Architecture and working of Scoop, Apache NiFi.
+
+End to End Nifi demonstration (all practicals).
