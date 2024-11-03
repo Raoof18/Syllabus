@@ -1,1 +1,8 @@
-Importance of Visual Analytics, Fundamental Charts (Pie Charts, Scatter Plots, Bar Charts), Advanced Visualization Techniques (Heatmaps, Boxplots, Pairplots, Histograms, Violin Plots, Density Plots, Bubble Charts), Data Preprocessing and Cleaning, Data Transformation and Normalization, Descriptive Statistical Methods, Measures of Central Tendency and Variability (Mean, Median, Mode, Variance, Standard Deviation, Covariance), Correlation Analysis, Multivariate Analysis, Outlier Detection Methods, Inferential Statistics, Hypothesis Testing (t-Tests—One-Sample, Independent, Paired; One-Tailed and Two-Tailed Tests), Data Visualization Best Practices.
+Importance of Visual Analytics, 
+Fundamental Charts (Pie Charts, Scatter Plots, Bar Charts), Advanced Visualization Techniques (Heatmaps, Boxplots, Pairplots, Histograms, Violin Plots, Density Plots, Bubble Charts), 
+Data Preprocessing and Cleaning, Data Transformation and Normalization, 
+Descriptive Statistical Methods, Measures of Central Tendency and Variability (Mean, Median, Mode, Variance, Standard Deviation, Covariance), 
+Correlation Analysis, Multivariate Analysis, Outlier Detection Methods, 
+Inferential Statistics, Hypothesis Testing (t-Tests—One-Sample, Independent, Paired; One-Tailed and Two-Tailed Tests),
+ANOVA (f-test), ANCOVA, Chi-Square
+Data Visualization Best Practices.
