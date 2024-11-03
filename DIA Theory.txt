@@ -10,3 +10,7 @@ Introduction to Data Lakes vs. Data Warehouses, Benefits and Challenges of Data 
 Architecture and working of Scoop, Apache NiFi.
 
 End to End Nifi demonstration (all practicals).
+
+Architecture and working of Apache Kafka, End-to-end Kafka demonstration (all practicals).
+
+Architecture and working of Apache Hive.
