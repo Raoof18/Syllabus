@@ -3,6 +3,7 @@ Fundamental Charts (Pie Charts, Scatter Plots, Bar Charts), Advanced Visualizati
 Data Preprocessing and Cleaning, Data Transformation and Normalization, 
 Descriptive Statistical Methods, Measures of Central Tendency and Variability (Mean, Median, Mode, Variance, Standard Deviation, Covariance), 
 Correlation Analysis, Multivariate Analysis, Outlier Detection Methods, 
-Inferential Statistics, Hypothesis Testing (t-Tests—One-Sample, Independent, Paired; One-Tailed and Two-Tailed Tests),
+Inferential Statistics, Hypothesis Testing (t-tests—One-Sample, Independent, Paired; One-Tailed and Two-Tailed Tests),
+Assumptions of t-test.
 ANOVA (f-test), ANCOVA, Chi-Square
 Data Visualization Best Practices.
